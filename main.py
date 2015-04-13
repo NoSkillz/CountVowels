@@ -15,7 +15,6 @@ for i in string_input:
         vowels[i] += 1
         total_vowels += 1
 
-# print("Your string has the following number of vowels: {0}".format(int(vowels['e'])))
 print("Number of 'a' characters: {0}.\nNumber of 'e' characters: {1}.\nNumber of 'i' characters: {2}.\n"
       "Number of 'o' characters: {3}.\nNumber of 'u' characters: {4}.\nTotal vowels: {5}.".format(vowels['a'],
                                                                                                   vowels['e'],
